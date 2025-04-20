@@ -1,0 +1,16 @@
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\bin\Debug\net8.0\MiniRentalSystem.Application.deps.json
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\bin\Debug\net8.0\MiniRentalSystem.Application.dll
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\bin\Debug\net8.0\MiniRentalSystem.Application.pdb
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\bin\Debug\net8.0\MiniRentalSystem.Domain.dll
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\bin\Debug\net8.0\MiniRentalSystem.Domain.pdb
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\MiniRentalSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\MiniRentalSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\MiniRentalSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\MiniRentalSystem.Application.AssemblyInfo.cs
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\MiniRentalSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\MiniRentalSystem.Application.sourcelink.json
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\MiniRent.E0FAC6FA.Up2Date
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\MiniRentalSystem.Application.dll
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\refint\MiniRentalSystem.Application.dll
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\MiniRentalSystem.Application.pdb
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Application\obj\Debug\net8.0\ref\MiniRentalSystem.Application.dll

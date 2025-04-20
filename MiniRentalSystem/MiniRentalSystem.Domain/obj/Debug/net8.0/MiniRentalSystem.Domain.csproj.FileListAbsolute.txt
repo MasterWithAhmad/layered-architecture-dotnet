@@ -1,0 +1,14 @@
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\bin\Debug\net8.0\MiniRentalSystem.Domain.deps.json
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\bin\Debug\net8.0\MiniRentalSystem.Domain.dll
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\bin\Debug\net8.0\MiniRentalSystem.Domain.pdb
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\obj\Debug\net8.0\MiniRentalSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\obj\Debug\net8.0\MiniRentalSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\obj\Debug\net8.0\MiniRentalSystem.Domain.AssemblyInfo.cs
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\obj\Debug\net8.0\MiniRentalSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\obj\Debug\net8.0\MiniRentalSystem.Domain.sourcelink.json
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\obj\Debug\net8.0\MiniRentalSystem.Domain.dll
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\obj\Debug\net8.0\refint\MiniRentalSystem.Domain.dll
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\obj\Debug\net8.0\MiniRentalSystem.Domain.pdb
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\obj\Debug\net8.0\ref\MiniRentalSystem.Domain.dll
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\bin\Debug\net8.0\MiniRentalSystem.Domain.runtimeconfig.json
+C:\Users\Ahmad\OneDrive\Desktop\MiniRentalSystem (Layered Edition - Beginner Friendly)\MiniRentalSystem\MiniRentalSystem.Domain\obj\Debug\net8.0\MiniRentalSystem.Domain.genruntimeconfig.cache

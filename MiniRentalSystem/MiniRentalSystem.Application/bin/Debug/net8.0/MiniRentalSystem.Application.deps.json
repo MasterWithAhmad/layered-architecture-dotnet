@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MiniRentalSystem.Application/1.0.0": {
+        "dependencies": {
+          "MiniRentalSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MiniRentalSystem.Application.dll": {}
+        }
+      },
+      "MiniRentalSystem.Domain/1.0.0": {
+        "runtime": {
+          "MiniRentalSystem.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniRentalSystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniRentalSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

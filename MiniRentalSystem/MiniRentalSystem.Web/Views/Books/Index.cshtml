@@ -1,0 +1,87 @@
+﻿@model IEnumerable<MiniRentalSystem.Domain.Entities.Book>
+@await Html.PartialAsync("_BookTable", Model)
+
+@{
+    ViewData["Title"] = "Books";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<h2 class="mb-3">Books</h2>
+
+<button class="btn btn-primary mb-3" onclick="openCreateModal()">Add Book</button>
+
+<div id="bookTable">
+    @await Html.PartialAsync("_BookTable", Model)
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="bookModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body" id="bookModalContent"></div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function openCreateModal() {
+            $.get('/Books/Create', function (data) {
+                $('#bookModalContent').html(data);
+                $('#bookModal').modal('show');
+            });
+        }
+
+        function openEditModal(id) {
+            $.get(`/Books/Edit/${id}`, function (data) {
+                $('#bookModalContent').html(data);
+                $('#bookModal').modal('show');
+            });
+        }
+
+        function saveForm(form) {
+            $.ajax({
+                type: 'POST',
+                url: form.action,
+                data: $(form).serialize(),
+                success: function (res) {
+                    if (res.success) {
+                        $('#bookModal').modal('hide');
+                        refreshTable();
+                        Swal.fire('Success', res.message, 'success');
+                    } else {
+                        $('#bookModalContent').html(res);
+                    }
+                }
+            });
+            return false;
+        }
+
+        function confirmDelete(id) {
+            Swal.fire({
+                title: 'Are you sure?',
+                text: "This will delete the book!",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonText: 'Yes, delete it!'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    $.post(`/Books/Delete/${id}`, function (res) {
+                        refreshTable();
+                        Swal.fire('Deleted!', res.message, 'success');
+                    });
+                }
+            });
+        }
+
+        function refreshTable() {
+            $.get('/Books', function (data) {
+                let html = $(data).find('#bookTable').html();
+                $('#bookTable').html(html);
+            });
+        }
+    </script>
+}
+

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MiniRentalSystem.Domain.Entities.Book>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Publisher</th>
+                <th>ISBN</th>
+                <th>Published Year</th>
+                <th>Genre</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.Publisher</td>
+                    <td>@book.ISBN</td>
+                    <td>@book.PublishedDate.ToString("yyyy")</td>
+                    <td>@book.Genre</td>
+                    <td>
+                        <button class="btn btn-sm btn-info" onclick="openEditModal('@book.Id')">Edit</button>
+                        <button class="btn btn-sm btn-danger" onclick="confirmDelete('@book.Id')">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">No books found.</div>
+}
